@@ -15,7 +15,7 @@ export default function Footer() {
                     </div>
 
                     <a
-                        href="https://www.github.com/mrigangka/bookfinder"
+                        href="https://www.github.com/mrigangka2003/bookfinder"
                         target="_blank"
                         rel="noreferrer"
                         className="flex items-center gap-2 px-4 py-2 rounded-lg bg-white/80 hover:bg-white border border-slate-200 hover:border-indigo-300 transition-all duration-200 shadow-sm hover:shadow-md"
